@@ -51,3 +51,6 @@ ethical structures and decision environments shape reality.
 ## Current status
 
 Early exploratory stage. Content will be added progressively.
+
+Maintained by Teo Kok Keong (赤道小强)
+contact: teokk73@yahoo.com
