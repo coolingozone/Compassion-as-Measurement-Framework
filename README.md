@@ -87,4 +87,4 @@ See: definition.md
 Early exploratory stage. Content will be added progressively.
 
 Maintained by Teo Kok Keong (赤道小强)
-contact: [teokk73@yahoo.com](teokk73@yahoo.com)
+contact: teokk73@yahoo.com
