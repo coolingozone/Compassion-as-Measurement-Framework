@@ -46,13 +46,11 @@ ethical structures and decision environments shape reality.
 
 ---
 
-## 二、核心工作假设（建设中）
+## 二、核心工作假设（建设中）Core working assumptions 
 
-（待补充）
+- [Core Working Assumptions](Core-Working-Assumptions.md)
 
-## 2. Core working assumptions (to be developed)
 
----
 
 ## 三、关键概念（建设中）
 
@@ -65,9 +63,17 @@ See: definition.md
 
 ## 3. Key concepts (to be developed)
 
-- Compassion (structural definition)
-- Measurement
-- Possibility space
+- [Core concepts – Definitions](definition.md)
+
+- [Measurement modes and timing](Measurement-Modes-and-Timing.md)
+
+- [Measurement configuration matrix (document)](Measurement-Configuration-Matrix.md)
+
+- [Measurement configuration matrix (xlsx)](Measurement_Configuration_Matrix.xlsx)
+
+- [Measurement configuration guide](Measurement-Configuration-guide.md)
+
+- [Core working assumptions](Core-Working-Assumptions.md)
 
 ---
 
