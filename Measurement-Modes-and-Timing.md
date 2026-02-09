@@ -62,7 +62,31 @@ Structural effect:
 
 - 缩小可能性空间边界
 - 以确定性换取聚焦
+In this framework, exclusion measurement is not value-neutral.
 
+Exclusion is permitted only when it serves the protection of a larger
+or longer-term possibility space.
+
+在本框架中，排除式测量并非中性的结构操作。
+
+排除只在以下前提下成立：
+它必须服务于对更大、或更长期可能性空间的保护。
+Exclusion should not be used to:
+- maximise short-term efficiency
+- simplify judgment by eliminating discomfort
+- protect the system at the cost of irreversible harm to others
+An exclusion that permanently removes future paths
+without protecting a broader possibility space
+constitutes structural harm.
+
+Such exclusion contradicts the orientation of compassion
+within this framework.
+Exclusion measurement should always be accompanied by the question:
+
+What possibility space is being preserved by this exclusion?
+每一次排除式测量，都必须能回答这个问题：
+
+这次排除，保护了哪一部分未来？
 ---
 
 ### 1.2 Opening measurement  
