@@ -77,7 +77,7 @@ See: definition.md
 - [Core working assumptions](Core-Working-Assumptions.md)
 ### Why compassion (not adaptation)｜为什么是慈悲，而不是自适应
 
-- `Why-Compassion-Not-Adaptive.md`
+- [Why compassion (not adaptative)](Why-Compassion-Not-Adaptive.md)
 
 Explains why this framework is not an adaptive or optimisation-based
 measurement framework, but an orientation-based intervention framework.
