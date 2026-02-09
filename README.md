@@ -67,9 +67,10 @@ See: definition.md
 
 - [Measurement configuration matrix (document)](Measurement-Configuration-Matrix.md)
   
--  [Measurement modes and timing](Measurement-Modes-and-Timing.md)
-
 - [Measurement configuration matrix (xlsx)](Measurement_Configuration_Matrix.xlsx)
+  
+-   [Measurement modes and timing](Measurement-Modes-and-Timing.md)
+
 
 - [Measurement configuration guide](Measurement-Configuration-guide.md)
 
@@ -86,4 +87,4 @@ See: definition.md
 Early exploratory stage. Content will be added progressively.
 
 Maintained by Teo Kok Keong (赤道小强)
-contact: teokk73@yahoo.com
+contact: [teokk73@yahoo.com}(teokk73@yahoo.com)
