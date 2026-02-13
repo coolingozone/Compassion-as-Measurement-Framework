@@ -9,6 +9,21 @@ This document describes the minimal executable procedure of the
 本文描述「慈悲的测量」框架的最小可执行操作流程。
 This process defines how a measurement intervention is performed.
 本流程定义：测量介入应当如何被实际执行。
+
+### Summary of the Operational process (real-time)
+
+Define the possibility space (including external forces)
+
+- Identify dominant noise
+
+- Select measurement timing
+
+- Select measurement intervention
+
+- Apply the compassion constraint
+
+- Execute the intervention
+
 ________________________________________
 ### Step 1 — Define the possibility space (including external forces)
 Identify the current set of feasible options and structural constraints.
@@ -34,18 +49,9 @@ Identify the dominant noise affecting judgment at this moment, such as:
 ●	social or evaluative pressure（社会或评价压力）
 Only the dominant noise needs to be identified.
 只需标记最主要的一项噪音。
+
 ________________________________________
-### Step 3 — Record baseline judgment
-Without applying any intervention:
-在不施加任何测量介入的情况下：
-●	record the first impulse choice
- 记录第一反射选择
-●	record why this choice feels necessary at this moment
- 记录当下为何觉得这个选择「必须如此」
-This establishes the baseline judgment.
-这一步建立基线判断。
-________________________________________
-### Step 4 — Select measurement timing
+### Step 3 — Select measurement timing
 Select one:
 选择一种测量时机：
 ●	Deferred measurement（延迟式测量）
@@ -55,7 +61,7 @@ Guiding principle:
 When noise is strong or subjective time is compressed, deferred measurement should be preferred.
 当噪音强烈或主观时间被压缩时，应优先使用延迟式测量。
 ________________________________________
-### Step 5 — Select measurement intervention
+### Step 4 — Select measurement intervention
 Select one intervention type:
 选择一种测量介入方式：
 ●	Exclusion（排除式）
@@ -64,7 +70,7 @@ Select one intervention type:
 Only one intervention type should be applied at a time.
 一次只使用一种介入方式。
 ________________________________________
-### Step 6 — Apply the compassion constraint
+### Step 5 — Apply the compassion constraint
 Before executing the intervention, check the following constraint:
 在执行介入之前，检视以下约束：
 Does this intervention help preserve or expand the larger future possibility space?
@@ -72,7 +78,7 @@ Does this intervention help preserve or expand the larger future possibility spa
 If the answer is negative, the intervention does not qualify as a compassionate measurement.
 若答案为否，该介入不被视为慈悲的测量。
 ________________________________________
-### Step 7 — Execute the intervention
+### Step 6 — Execute the intervention
 Re-enter the judgment process using the selected timing and intervention type.
 按照选定的测量时机与介入方式，重新进入判断过程。
 ________________________________________
