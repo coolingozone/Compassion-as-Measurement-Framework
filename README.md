@@ -83,11 +83,11 @@ ethical structures and decision environments shape reality.
 
 ---
 
-## 当前状态
+## Current status 当前状态
 
 早期探索阶段，内容将持续补充。
 
-## Current status
+
 
 Early exploratory stage. Content will be added progressively.
 
