@@ -62,6 +62,7 @@ ethical structures and decision environments shape reality.
 
 
 - [Core concepts – Definitions](definition.md)
+- [Research Scope](Research-Scope.md)
 
 - [Measurement configuration matrix (document)](Measurement-Configuration-Matrix.md)
   
@@ -76,6 +77,10 @@ ethical structures and decision environments shape reality.
 - [Why compassion (not adaptive)](Why-Compassion-Not-Adaptive-Measurement.md)
 
 -  [Operation Process](Operation.md)
+-
+-  [Research Position](Research-Position.md)
+
+
 ---
 
 ## 当前状态
