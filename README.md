@@ -90,5 +90,8 @@ Early exploratory stage. Content will be added progressively.
 
 ---
 
-Maintained by Teo Kok Keong (赤道小强)
+Maintained by Teo Kok Keong (赤道小强) 
+Copyright (c) 2026 Teo Kok Keong (赤道小强)
 contact: teokk73@yahoo.com
+
+
