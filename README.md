@@ -86,10 +86,9 @@ ethical structures and decision environments shape reality.
 ## Current status 当前状态
 
 早期探索阶段，内容将持续补充。
-
-
-
 Early exploratory stage. Content will be added progressively.
+
+---
 
 Maintained by Teo Kok Keong (赤道小强)
 contact: teokk73@yahoo.com
