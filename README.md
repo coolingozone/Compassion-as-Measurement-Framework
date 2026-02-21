@@ -7,7 +7,7 @@ It is not intended as a scientific or universal decision framework.
 
 
 It serves as a writing instrument to guide character decision-making within constrained possibility spaces.
-Copyright (c) 2026 Teo Kok Keong (赤道小强)
+
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 
